@@ -4,7 +4,7 @@ A web-based application for securely encrypting and decrypting messages hidden w
 
 🖼️ Preview
 
-
+https://github.com/PrashantSinghUP64/Secure-Data-Hiding-in-Image-Using-Steganography/blob/main/Steganography%20Project%20Output.png
 
 📑 Project Presentation
 
@@ -99,7 +99,7 @@ decrypt_message(image, password): Decrypts and retrieves the hidden message from
 
 Feel free to fork and submit pull requests. Any contributions are welcome!
 
-Made with ❤️ by Prashant Kumar Singh as part of the IBM Cyber Security Internship
+Made by Prashant Kumar Singh as part of the IBM Cyber Security Internship
 
 🌐 Connect with Me
 
