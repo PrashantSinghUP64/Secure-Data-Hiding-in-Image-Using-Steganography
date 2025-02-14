@@ -263,14 +263,12 @@ function App() {
           className="mt-12 flex items-center justify-center space-x-4 bg-gray-800 p-4 rounded-lg shadow-xl cursor-pointer"
           onClick={() => window.open('https://github.com/codewithshek', '_blank')}
         >
-          <img
-            src="/codewithshek DP.png"
-            alt="CodeWithShek"
+          
             className="w-12 h-12 rounded-full"
           />
           <div className="text-center">
             <p className="text-lg font-semibold bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
-              Made with ❤️ by CodeWithShek
+              Made By Prashant Kumar Singh
             </p>
             <p className="text-sm text-gray-400">Secure Image Encryption System</p>
           </div>
