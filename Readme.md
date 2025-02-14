@@ -36,30 +36,7 @@ Pillow (Python Imaging Library for image processing)
 
 Cryptography (Python library for encryption and decryption)
 
-📂 Directory Structure
 
-github.com/PrashantSinghUP64/Secure-Data-Hiding-in-Image-Using-Steganography/
-├── Readme.md
-├── Secure Data Hiding in Image Using Steganography.pptx
-├── eslint.config.js
-├── index.html
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.app.json
-├── tsconfig.json
-├── tsconfig.node.json
-├── vite.config.ts
-├── public/
-└── src/
-    ├── App.tsx
-    ├── app.py
-    ├── decrypt.py
-    ├── encrypt.py
-    ├── index.css
-    ├── main.tsx
-    ├── vite-env.d.ts
-    └── assets/
 
 📌 Setup & Installation
 
@@ -82,10 +59,6 @@ npm run dev
 
 # Start the backend
 python src/app.py
-
-4. Access the Application
-
-Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
 
 📜 Key Functions
 
