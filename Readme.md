@@ -1,39 +1,46 @@
-# Secure Data Hiding in Image: Protecting Your Confidential Information
+Secure Data Hiding in Image: Protecting Your Confidential Information
+
 A web-based application for securely encrypting and decrypting messages hidden within images, ensuring your sensitive data remains private and protected.
 
-# 🖼️ Preview
-![Output-1](https://github.com/user-attachments/assets/3fe24afb-6f08-4ea0-bbb6-7f4869c44f43)
+🖼️ Preview
 
 
-# 📑 Project Presentation
-> For a detailed overview of the project, you can refer to the project presentation:
 
-[AICTE x IBM-INTERN-PROJECT-PPT.pptx](./AICTE%20x%20IBM-INTERN-PROJECT-PPT.pptx)
+📑 Project Presentation
 
-# 🚀 Features
-* Encrypt Message: Hide your secret messages within images using a secure encryption password.
-* Decrypt Message: Retrieve hidden messages from images by providing the correct decryption password.
-* Password Protection: Incorrect passwords generate random characters and symbols, safeguarding your data.
+Secure Data Hiding in Image Using Steganography
 
-# 🛠 Tech Stack
-> Frontend
+🚀 Features
 
-* HTML, CSS (Tailwind CSS), TypeScript
-* React (for building user interfaces)
-* Vite (for fast development and build tooling)
+Encrypt Message: Hide your secret messages within images using a secure encryption password.
 
-> Backend
+Decrypt Message: Retrieve hidden messages from images by providing the correct decryption password.
 
-* Python (Flask for server-side operations)
-* Pillow (Python Imaging Library for image processing)
-* Cryptography (Python library for encryption and decryption)
+Password Protection: Incorrect passwords generate random characters and symbols, safeguarding your data.
 
+🛠 Tech Stack
 
-# 📂 Directory Structure
-```
-github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
+Frontend
+
+HTML, CSS (Tailwind CSS), TypeScript
+
+React (for building user interfaces)
+
+Vite (for fast development and build tooling)
+
+Backend
+
+Python (Flask for server-side operations)
+
+Pillow (Python Imaging Library for image processing)
+
+Cryptography (Python library for encryption and decryption)
+
+📂 Directory Structure
+
+github.com/PrashantSinghUP64/Secure-Data-Hiding-in-Image-Using-Steganography/
 ├── Readme.md
-├── AICTE x IBM-INTERN-PROJECT-PPT.pptx
+├── Secure Data Hiding in Image Using Steganography.pptx
 ├── eslint.config.js
 ├── index.html
 ├── package.json
@@ -53,49 +60,55 @@ github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
     ├── main.tsx
     ├── vite-env.d.ts
     └── assets/
-```
-# 📌 Setup & Installation
-### 1. Clone the Repository
-```
-git clone https://github.com/codewithshek/ibm-intern-secure-data-hiding-in-image.git
-cd ibm-intern-secure-data-hiding-in-image
-```
-### 2. Install Dependencies
-```
-npm install 
+
+📌 Setup & Installation
+
+1. Clone the Repository
+
+git clone https://github.com/PrashantSinghUP64/Secure-Data-Hiding-in-Image-Using-Steganography.git
+cd Secure-Data-Hiding-in-Image-Using-Steganography
+
+2. Install Dependencies
+
+npm install
 pip install opencv-python
 pip install Flask
 pip install pillow
-```
-### 3. Run the Application
-```
+
+3. Run the Application
+
 # Start the frontend
 npm run dev
 
-Start the backend
+# Start the backend
 python src/app.py
-```
 
-### 4. Access the Application
-```
+4. Access the Application
+
 Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
-```
 
-# 📜 Key Functions
+📜 Key Functions
 
-* encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
-* decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
+encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
 
-# 💡 Future Enhancements
+decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-  <p>✅ Implement multi-language support.</p>
-  <p>✅ Add advanced encryption algorithms for enhanced security.</p>
-  <p>✅ Develop a mobile application for on-the-go encryption and decryption.</p>
-</div>
+💡 Future Enhancements
 
+🤝 Contributing
 
-# 🤝: Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
 
-Made with ❤️ by D ABHISHEK YADAV as part of the IBM Cyber Security Internship
+Made with ❤️ by Prashant Kumar Singh as part of the IBM Cyber Security Internship
+
+🌐 Connect with Me
+
+YouTube: Technical Knowledge Hindi
+
+LinkedIn: Prashant Kumar Singh
+
+Telegram: @Prashant1092
+
+Gmail: ps7027804@gmail.com
+
+
