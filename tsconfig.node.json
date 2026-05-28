@@ -1,5 +1,5 @@
 {
-  "Options": {
+  "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2023"],
     "module": "ESNext",
